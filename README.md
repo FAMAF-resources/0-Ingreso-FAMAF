@@ -1,42 +1,43 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/0-Ingreso-FAMAF)
 
 # Materia - FAMAF - Computacion
 
-> Cuatrimestre
+> ~Noviembre-Diciembre intensivo o ~Enero-Febrero
+
+# Informacion
+
+https://www.famaf.unc.edu.ar/ingresantes/
+
+https://www.famaf.unc.edu.ar/la-facultad/institucional/secretar%C3%ADas/secretaria-academica/preinscripcion/
+
 
 ## Correlativas para **cursar**
 
-| Materia               | Condición    |
-| --------------------- | ------------ |
-| -   | Aprobada     |
+- Ultimo año del secundario.
 
 ## Correlativas para **aprobar**
 
-| Materia               | Condición    |
-| --------------------- | ------------ |
-| -   | Aprobada     |
+- Secundario completo y analitico definitivo entregado.
 
 ## Es correlativa de:
 
-- Ninguna.
+- [Matematica Discreta I](https://github.com/FAMAF-resources/1ro_1C-Matematica_Discreta_I-FAMAF)
+- [Introduccion a los Algoritmos](https://github.com/FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF)
+- [Analisis Matematico I](https://github.com/FAMAF-resources/1ro_1C-Analisis_Matematico_I-FAMAF)
 
 ## Clonar el repositorio`
 
-> http
+**http**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/FAMAF-resources/0-Ingreso-FAMAF.git
 ```
 
-> ssh
+**ssh**
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:FAMAF-resources/0-Ingreso-FAMAF.git
 ```
-
-## Aula virtual
-
-![example](url)
 
 # Contribuciones
 
@@ -45,6 +46,6 @@ Este es un proyecto con fines de facilitar el acceso al material para estudio.
 Cualquier persona puede realizar su aporte con apunte, resumen, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) o comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/0-Ingreso-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/0-Ingreso-FAMAF"/>
 </a>
