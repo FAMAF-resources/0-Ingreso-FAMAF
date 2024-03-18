@@ -1,6 +1,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/0-Ingreso-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Ingreso - FAMAF - Computacion
 
 > ~Noviembre-Diciembre intensivo o ~Enero-Febrero
 
